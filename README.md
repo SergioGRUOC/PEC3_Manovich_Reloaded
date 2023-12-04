@@ -1,7 +1,3 @@
-# PEC3_Manovich_Reloaded
-Ejercicio UOC. Cultura Digital - PEC3
-
-
 # PEC3: Hibridación digital en el mundo contemporáneo
 
 **Autor:** Sergio García Ramírez 
