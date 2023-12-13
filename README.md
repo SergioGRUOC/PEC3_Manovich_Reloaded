@@ -60,11 +60,10 @@ Por otro lado, "Kahoot!" representa una transformación en la educación, aprove
 
 Estos ejemplos demuestran cómo la hibridación digital está redefiniendo las normas tradicionales, creando nuevas posibilidades en diversos campos y mostrando el potencial de la tecnología para mejorar nuestras vidas cotidianas.
 
-## Bibliografía
+## Bibliografía y Webgrafía
 
 - Manovich, L. (2013). "El Software toma el mando". Editorial UOC.
-
-## Webgrafía
-
 - Wikipedia. "Monster Hunter Now". [Monster Hunter Now - Wikipedia](https://es.wikipedia.org/wiki/Monster_Hunter_Now).
 - Wikipedia. "Kahoot!". [Kahoot! - Wikipedia](https://es.wikipedia.org/wiki/Kahoot!).
+- Stepien y Barno. "La Era Digital, la Hibridación Físico-Digital y la Transformación Social". [Blog de Stepien y Barno](https://stepienybarno.es/blog/2017/02/20/la-era-digital-la-hibridacion-fisico-digital-y-la-transformacion-social/).
+- CPA Online. "Realidad aumentada aplicada a los videojuegos". [Blog de CPA Online](https://www.cpaonline.es/blog/videojuegos-animacion/realidad-aumentada-aplicada-a-los-videojuegos/).
