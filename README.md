@@ -34,6 +34,11 @@ Kahoot! no solo es una herramienta educativa, sino también una plataforma de in
 
 La experiencia de juego en "Monster Hunter Now" es única, permitiendo a los usuarios descubrir y enfrentar criaturas fantásticas en su propio entorno. Al convertir el mundo real en un espacio de juego, este juego estimula la exploración física y la interacción con el entorno de manera emocionante y novedosa. La RA en "Monster Hunter Now" no solo mejora la jugabilidad sino que también enriquece la experiencia de los jugadores al conectarlos de manera más íntima con su entorno.
 
+![Monster Hunter Now](https://www.digitec.ch/im/Files/7/4/9/9/4/8/5/1/Monster_Hunter_Now_Preview_1_2_3.png?impolicy=PictureComponent&resizeWidth=800&resizeHeight=501)
+  - **Autor:** Martin Jud
+  - **Título:** "Imagen de Monster Hunter Now"
+  - **Fuente:** [digitec.ch](https://www.digitec.ch/en/page/monster-hunter-now-ar-game-from-niantic-coming-in-september-27378)
+
 El juego se destaca por su capacidad de crear una comunidad de jugadores activos y comprometidos. Al igual que en otros juegos de geolocalización, "Monster Hunter Now" fomenta el trabajo en equipo y la socialización al aire libre, ofreciendo una plataforma para que jugadores de diversas edades y orígenes se unan en una aventura compartida. La naturaleza colaborativa del juego no solo mejora la experiencia de juego, sino que también refuerza lazos comunitarios y promueve nuevas formas de interacción social.
 
 "Monster Hunter Now" también desafía las concepciones tradicionales de los videojuegos. Al incentivar a los jugadores a moverse y explorar su entorno, el juego combina de manera efectiva el entretenimiento digital con la actividad física. Esta característica lo convierte en una herramienta poderosa para promover estilos de vida activos y saludables, alentando a los jugadores a interactuar con el mundo real de maneras que raramente se asocian con el juego digital.
