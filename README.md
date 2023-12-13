@@ -39,3 +39,22 @@ El juego se destaca por su capacidad de crear una comunidad de jugadores activos
 "Monster Hunter Now" también desafía las concepciones tradicionales de los videojuegos. Al incentivar a los jugadores a moverse y explorar su entorno, el juego combina de manera efectiva el entretenimiento digital con la actividad física. Esta característica lo convierte en una herramienta poderosa para promover estilos de vida activos y saludables, alentando a los jugadores a interactuar con el mundo real de maneras que raramente se asocian con el juego digital.
 
 En definitiva, "Monster Hunter Now" es mucho más que un juego; es un pionero en la integración de tecnologías avanzadas con experiencias culturales y sociales. Ilustra vívidamente cómo la tecnología de RA puede ampliar las fronteras del entretenimiento digital, ofreciendo nuevas dimensiones de interactividad y exploración. Su influencia va más allá del ámbito de los videojuegos, demostrando el potencial de la RA para transformar la manera en que percibimos y nos relacionamos con nuestro entorno.
+
+## Conclusiones
+
+A través de este análisis, hemos explorado dos ejemplos significativos de hibridación digital: "Monster Hunter Now" y "Kahoot!". Estos casos ilustran cómo la tecnología, en particular la realidad aumentada y la geolocalización, está transformando nuestras experiencias en la educación y el entretenimiento.
+
+"Monster Hunter Now", con su innovador uso de la RA y la geolocalización, no solo brinda una experiencia de juego inmersiva sino que también fomenta la interacción social y física en el mundo real. Este juego destaca por su capacidad de integrar el mundo virtual con el físico, incentivando a los jugadores a explorar su entorno y colaborar con otros.
+
+Por otro lado, "Kahoot!" representa una transformación en la educación, aprovechando la gamificación para crear un entorno de aprendizaje interactivo y atractivo. Esta plataforma ha cambiado la forma en que los educadores y estudiantes abordan el aprendizaje, combinando la diversión con la educación para mejorar la participación y la retención de conocimientos.
+
+Estos ejemplos demuestran cómo la hibridación digital está redefiniendo las normas tradicionales, creando nuevas posibilidades en diversos campos y mostrando el potencial de la tecnología para mejorar nuestras vidas cotidianas.
+
+## Bibliografía
+
+- Manovich, L. (2013). "El Software toma el mando". Editorial UOC.
+
+## Webgrafía
+
+- Wikipedia. "Monster Hunter Now". [Monster Hunter Now - Wikipedia](https://es.wikipedia.org/wiki/Monster_Hunter_Now).
+- Wikipedia. "Kahoot!". [Kahoot! - Wikipedia](https://es.wikipedia.org/wiki/Kahoot!).
