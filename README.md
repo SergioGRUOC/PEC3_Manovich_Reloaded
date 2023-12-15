@@ -9,7 +9,7 @@ La conceptualización de la hibridación de medios por Lev Manovich supera la si
 
 ![Imagen de Monster Hunter Now](https://spiriterritory.com/images/news/nw25313l.jpg)
 - **Autor:** Sergej Timofejev
-- **Título:** "Imagen de Monster Hunter Now"
+- **Título:** "Imagen de Manovich"
 - **Fuente:** [Spirit Territory](https://spiriterritory.com)
 
 # Planteamiento
