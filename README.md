@@ -5,8 +5,17 @@
 **Fecha:** .......FALTA AÑADIR
 
 
+# Introducción
+La conceptualización de la hibridación de medios por Lev Manovich supera la simple reconceptualización de medios preexistentes. Este enfoque abarca la generación de "especies" mediáticas emergentes, originadas de la fusión única de componentes diversos como el cine, la fotografía y la animación, entre otros. Esta integración va más allá del concepto tradicional de multimedia, ya que no se limita a la coexistencia de diferentes medios en un mismo espacio, sino que representa una fusión sinérgica que crea experiencias innovadoras y cohesivas. En esencia, esta hibridación no solo reúne elementos de distintos medios, sino que los transforma y los entrelaza para formar modos de expresión y percepción completamente nuevos, redefiniendo así nuestro acercamiento y comprensión de la cultura y la tecnología digital.
+
 # Planteamiento
-La hibridación de medios, como la define Lev Manovich, trasciende la simple reinterpretación de medios existentes. Implica la creación de nuevas "especies" de medios que surgen de la fusión innovadora de elementos como el cine, la fotografía, la animación, y otros. Esta hibridación no debe confundirse con el concepto de multimedia; es más bien un fenómeno donde los elementos se fusionan para ofrecer experiencias nuevas y coherentes, distintas a las que cada medio podría proporcionar individualment
+En este estudio, exploraremos dos ejemplos notables de hibridación de medios bajo la perspectiva teórica de Lev Manovich. Los casos escogidos son:
+
+**Kahoot!**: Una plataforma que hibrida la educación con la gamificación, transformando el aprendizaje en una experiencia interactiva y atractiva.
+
+**Monster Hunter Now**: Un juego que integra realidad aumentada y geolocalización, llevando la interacción del juego más allá de las pantallas y al mundo real.
+
+Analizaremos cómo estos ejemplos reflejan la fusión de tecnologías y prácticas para crear nuevas formas de experiencia y percepción en educación y entretenimiento.
 
 # Kahoot! y la hibridación en la educación
 
