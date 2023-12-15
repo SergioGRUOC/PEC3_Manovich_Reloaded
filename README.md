@@ -4,9 +4,13 @@
 
 **Fecha:** .......FALTA AÑADIR
 
-
 # Introducción
 La conceptualización de la hibridación de medios por Lev Manovich supera la simple reconceptualización de medios preexistentes. Este enfoque abarca la generación de "especies" mediáticas emergentes, originadas de la fusión única de componentes diversos como el cine, la fotografía y la animación, entre otros. Esta integración va más allá del concepto tradicional de multimedia, ya que no se limita a la coexistencia de diferentes medios en un mismo espacio, sino que representa una fusión sinérgica que crea experiencias innovadoras y cohesivas. En esencia, esta hibridación no solo reúne elementos de distintos medios, sino que los transforma y los entrelaza para formar modos de expresión y percepción completamente nuevos, redefiniendo así nuestro acercamiento y comprensión de la cultura y la tecnología digital.
+
+![Imagen de Monster Hunter Now](https://spiriterritory.com/images/news/nw25313l.jpg)
+- **Autor:** Sergej Timofejev
+- **Título:** "Imagen de Monster Hunter Now"
+- **Fuente:** [Spirit Territory](https://spiriterritory.com)
 
 # Planteamiento
 En este estudio, exploraremos dos ejemplos notables de hibridación de medios bajo la perspectiva teórica de Lev Manovich. Los casos escogidos son:
