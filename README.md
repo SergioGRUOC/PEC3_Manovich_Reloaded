@@ -2,7 +2,7 @@
 
 **Autor:** Sergio García Ramírez 
 
-**Fecha:** .......FALTA AÑADIR
+**Fecha:** 15/12/2023
 
 # Introducción
 La conceptualización de la hibridación de medios por Lev Manovich supera la simple reconceptualización de medios preexistentes. Este enfoque abarca la generación de "especies" mediáticas emergentes, originadas de la fusión única de componentes diversos como el cine, la fotografía y la animación, entre otros. Esta integración va más allá del concepto tradicional de multimedia, ya que no se limita a la coexistencia de diferentes medios en un mismo espacio, sino que representa una fusión sinérgica que crea experiencias innovadoras y cohesivas. En esencia, esta hibridación no solo reúne elementos de distintos medios, sino que los transforma y los entrelaza para formar modos de expresión y percepción completamente nuevos, redefiniendo así nuestro acercamiento y comprensión de la cultura y la tecnología digital.
